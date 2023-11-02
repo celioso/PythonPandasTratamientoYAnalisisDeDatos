@@ -49,3 +49,23 @@ Y sobre Colab, vimos cómo:
 ### Proyecto del aula anterior
 
 Si lo desea, puede descargar [aquí](https://github.com/alura-es-cursos/1792-introducao-python-pandas/raw/1792-Aula3/1792-Aula3.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
+
+### Haga lo que hicimos en aula
+
+Llegó el momento de que tú mismo ejecutes todos los pasos que hemos realizado durante esta aula. Si ya lo has hecho, ¡excelente!. Si no, es importante que realices lo que enseñé en los videos para continuar con la próxima aula.
+
+### Lo que aprendimos
+
+En esta aula, aprendimos:
+
+- Cómo seleccionar una variable del Dataframe (por ejemplo, `datos['Tipo']` o `datos.Tipo`)
+- Que un Dataframe está compuesto de varios Series
+- Cómo eliminar duplicados (usando el método `drop_duplicates()`)
+- Cómo redefinir el index de un Dataframe y Series (atributo `index`)
+- Cómo concatenar Dataframes (recordando el `axis`)
+- Cómo crear nuevos Dataframes basados en estructuras de datos Python (lista, diccionarios o tuplas)
+¡En la próxima clase aprenderemos cómo filtrar nuestros datos! ¿Listo para continuar?
+
+### Proyecto del aula anterior
+
+Si lo desea, puede descargar [aquí](https://github.com/alura-es-cursos/1792-introducao-python-pandas/raw/1792-Aula4/1792-Aula4.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
