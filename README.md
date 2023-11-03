@@ -69,3 +69,20 @@ En esta aula, aprendimos:
 ### Proyecto del aula anterior
 
 Si lo desea, puede descargar [aquí](https://github.com/alura-es-cursos/1792-introducao-python-pandas/raw/1792-Aula4/1792-Aula4.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
+
+### Haga lo que hicimos en aula
+
+Llegó el momento de que tú mismo ejecutes todos los pasos que hemos realizado durante esta aula. Si ya lo has hecho, ¡excelente! Si no, es importante que realices lo que enseñé en los videos para continuar con la próxima aula.
+
+### Lo que aprendimos
+
+En esta aula, aprendimos como:
+
+- Crear una Series booleana utilizando el método `isin(..)` a partir de un dataframe
+- Filtrar los datos de un dataframe utilizando una Series booleana
+- Exportar y guardar los datos de un dataframe(método `to_csv()`)
+- Ordenar los datos de un dataframe (métodos `sort_values()` y `sort_index()`)
+
+### Proyecto del aula anterior
+
+Si lo desea, puede descargar [aquí](https://github.com/alura-es-cursos/1792-introducao-python-pandas/raw/1792-Aula5/1792-Aula5.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
