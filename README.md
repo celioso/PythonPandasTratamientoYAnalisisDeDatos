@@ -86,3 +86,21 @@ En esta aula, aprendimos como:
 ### Proyecto del aula anterior
 
 Si lo desea, puede descargar [aquí](https://github.com/alura-es-cursos/1792-introducao-python-pandas/raw/1792-Aula5/1792-Aula5.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
+
+### Dataframe para los próximos ejercicios
+
+```python
+import pandas as pd
+alumnos = pd.DataFrame({
+'Nombre': ['Ary', 'Katia', 'Denis', 'Beto', 'Bruna', 'Dara', 'Carlos', 'Alice'], 
+'Sexo': ['M', 'F', 'M', 'M', 'F', 'F', 'M', 'F'], 
+'Edad': [15, 27, 56, 32, 42, 21, 19, 35], 
+'Notas': [7.5, 2.5, 5.0, 10, 8.2, 7, 6, 5.6], 
+'Aprobado': [True, False, False, True, True, True, False, False]},
+columns = ['Nombre', 'Edad', 'Sexo', 'Notas', 'Aprobado'])
+```
+
+Utilizando las técnicas de selección presentadas en esta aula, realice los conjuntos de selecciones propuestos en los siguientes ejercicios.
+
+
+***********************************************
