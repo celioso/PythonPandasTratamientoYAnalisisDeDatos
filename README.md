@@ -103,4 +103,21 @@ columns = ['Nombre', 'Edad', 'Sexo', 'Notas', 'Aprobado'])
 Utilizando las técnicas de selección presentadas en esta aula, realice los conjuntos de selecciones propuestos en los siguientes ejercicios.
 
 
-***********************************************
+### Haga lo que hicimos en aula
+
+Llegó el momento de que tú mismo ejecutes todos los pasos que hemos realizado durante esta aula. Si ya lo has hecho, ¡excelente!. Si no, es importante que realices lo que enseñé en los videos para continuar con la próxima aula.
+
+### Lo que aprendimos
+
+En esta aula, aprendimos:
+
+- Métodos de selección y frecuencias
+ - Selección con la condición **OR** (`|`)
+ - Selección con la condición **AND** (`&`)
+- Cómo crear un `Index` con `split()`
+- Selección por línea y columna en un *dataframe*:
+ - Usando índices numéricos y rótulos de las líneas
+ 
+ ### Proyecto del aula anterior
+ 
+ Si lo desea, puede descargar [aquí](https://github.com/alura-es-cursos/1792-introducao-python-pandas/raw/1792-Aula6/1792-Aula6.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
