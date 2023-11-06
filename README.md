@@ -121,3 +121,26 @@ En esta aula, aprendimos:
  ### Proyecto del aula anterior
  
  Si lo desea, puede descargar [aquí](https://github.com/alura-es-cursos/1792-introducao-python-pandas/raw/1792-Aula6/1792-Aula6.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
+
+ ### Haga lo que hicimos en aula
+
+Llegó el momento de que tú mismo ejecutes todos los pasos que hemos realizado durante esta aula. Si ya lo has hecho, ¡excelente!. Si no, es importante que realices lo que enseñé en los videos para continuar con la próxima aula.
+
+### Lo que aprendimos
+
+En esta aula, aprendimos:
+
+- Tratamiento de datos faltantes
+- Cómo identificar valores nulos (*missing values*)
+ - El método `isnull()` indica si los valores son nulos
+ - El método `notnull()` devuelve lo opuesto al método `isnull()`
+ - El método `info()` también es una forma de verificar la presencia de valores nulos
+- Cómo eliminar valores nulos con el método `dropna()`
+- Tratamiento condicional
+- Inversión de valores booleanos con `~`
+- Cómo reemplazar los missing values con el método `fillna()`
+- Métodos de interpolación: `ffill`, `bfill` y `mean()`
+
+### Proyecto del aula anterior
+
+Si lo desea, puede descargar [aquí](https://github.com/alura-es-cursos/1792-introducao-python-pandas/raw/1792-Aula7/1792-aula7.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
