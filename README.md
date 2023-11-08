@@ -177,3 +177,17 @@ En esta aula, aprendimos:
 ### Proyecto del aula anterior
 
 Si lo desea, puede descargar [aquí](https://github.com/alura-es-cursos/1792-introducao-python-pandas/raw/1792-Aula9/1792-aula9.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
+
+###  Haga lo que hicimos en aula
+
+Llegó el momento de que tú mismo ejecutes todos los pasos que hemos realizado durante esta aula. Si ya lo has hecho, ¡excelente!. Si no, es importante que realices lo que enseñé en los videos para continuar con la próxima aula.
+
+### Proyecto del curso
+Si lo desea, puede descargar [aquí](https://github.com/alura-es-cursos/1792-introducao-python-pandas/raw/1792-ProyectoFinal/1792-ProyectoFinal.zip "aquí") el proyecto completo realizado en el curso.
+
+### Lo que aprendimos
+
+En esta aula, aprendimos:
+
+- Cómo identificar y eliminar *outliers* con *box plot*
+- Cómo hacer un gráfico de pizza con la aplicación del método `pie()`, de la biblioteca `matplotlib`
